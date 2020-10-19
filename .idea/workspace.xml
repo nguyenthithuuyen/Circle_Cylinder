@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc31e2d6-45b2-4e4a-b76e-030c9112c496" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1j54rXeuJUkZowbAd4NZNxvQXRd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc31e2d6-45b2-4e4a-b76e-030c9112c496" name="Default Changelist" comment="" />
+      <created>1603080817254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603080817254</updated>
+      <workItem from="1603080818269" duration="1494000" />
+      <workItem from="1603087857181" duration="1215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="373" width="351" height="370" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603080864915">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="370" y="373" width="351" height="370" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1603080864915" />
+    <state x="341" y="270" width="417" height="568" key="NewPhpClassDialog" timestamp="1603080881550">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="341" y="270" width="417" height="568" key="NewPhpClassDialog/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1603080881550" />
+    <state x="350" y="476" width="399" height="156" key="NewPhpFileDialog" timestamp="1603080826881">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="350" y="476" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1603080826881" />
+  </component>
+</project>
